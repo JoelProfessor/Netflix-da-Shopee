@@ -15,4 +15,7 @@ body {
 .muda-de-cor{
     color: rgb(255, 0, 183);
 }
+.azul{
+    color: var(--botao-azul);
+}
 

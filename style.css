@@ -3,7 +3,7 @@
     padding: 0;
 }
 :root {
-    --branco-principal: white;
+    --branco-principal: rgb(255, 0, 0);
     --cinza-secundario: #ff0000;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
